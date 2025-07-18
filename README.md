@@ -2,8 +2,24 @@
 
 A data science project analyzing a bank’s direct marketing campaign to predict term deposit subscriptions.
 
-## Result
-<img width="1242" height="666" alt="image" src="https://github.com/user-attachments/assets/8a96d214-b38d-41b1-84d9-bb0114f1569a" />
+✅## Outcome
+The project successfully identified key predictors of client subscription behavior in a term deposit marketing campaign. Through exploratory data analysis and model building:
+
+**Key Insights:**
+
+Clients with prior contact and those contacted in specific months (e.g., March, October) showed higher subscription rates.
+
+Job, age, and duration of the call were among the strongest indicators of subscription.
+
+**Model Performance:**
+
+The Random Forest classifier achieved the highest accuracy at 88%, with a strong recall on the subscribed class despite class imbalance.
+
+Feature importance analysis provided actionable insights for targeting future campaigns.
+
+**Business Impact:**
+
+The bank can improve marketing ROI by prioritizing high-probability leads, reducing unnecessary outreach, and optimizing campaign timing.
 
 
 ## Dataset
